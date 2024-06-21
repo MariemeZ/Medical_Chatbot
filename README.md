@@ -3,6 +3,8 @@
 
 The project involves creating a medical chatbot that assists users by providing information about various diseases based on user queries.
 
+<img src="https://github.com/MariemeZ/Medical_Chatbot/assets/113024831/4ac7fe9b-ee10-48f7-a7f2-d232b352d324" width="400" height="auto">
+
 
 ## Data Collection
 
@@ -13,6 +15,9 @@ As there was no ready-made database available, we decided to construct our own:
 - We traversed an organized file structure where each sub-folder contained XML files.
 - Each XML file was analyzed to extract questions and their associated types.
 - We focused on questions related to specific types such as treatment, symptoms, susceptibility, usage, prevention, information, causes, dietary aspects, precautions, and other relevant information. These types were selected based on their importance in understanding diseases.
+  
+  ![image](https://github.com/MariemeZ/Medical_Chatbot/assets/113024831/2c5ab8f8-430d-4449-9937-5594496e0d65)
+
 
 ### Automatic Translation:
 
