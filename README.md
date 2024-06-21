@@ -6,6 +6,13 @@ The project involves creating a medical chatbot that assists users by providing 
 <img src="https://github.com/MariemeZ/Medical_Chatbot/assets/113024831/4ac7fe9b-ee10-48f7-a7f2-d232b352d324" width="400" height="auto">
 
 
+![image](https://github.com/MariemeZ/Medical_Chatbot/assets/113024831/1937b184-a980-43b6-8f87-b5a2ef2684b1)
+
+![image](https://github.com/MariemeZ/Medical_Chatbot/assets/113024831/dda1c9ca-ae04-4d9f-b568-be0ec1ed1de7)
+
+
+
+
 ## Data Collection
 
  - In developing a medical question-answering (Q&A) chatbot, the initial crucial step is to collect relevant and accurate data. This stage plays a vital role in constructing a robust knowledge base for the chatbot, ensuring reliable and informative responses to users.
